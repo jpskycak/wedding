@@ -1,13 +1,7 @@
 Q and A
 =====
 
-Logistics
-------------
-
 **When is the wedding?** TBD.
-
-This Website
-------------
 
 **Why is this site on ReadTheDocs?** So that it's easy to read and navigate. "Functional and well-documented" is kind of our aesthetic. We even have a Slack org with just the two of us.
 
