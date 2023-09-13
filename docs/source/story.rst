@@ -7,14 +7,18 @@ They hit it off playing ping pong at a winter holiday work party.
 Many coffees/ice creams later, Sanjana asks Justin to prom.
 
 .. raw:: html
-    :file: ../imports/story-photos-2017.html
+    :file: imports/story/photos-2017.html
+
+|
 
 **2018-19:**
 Both move to Los Angeles – Sanjana attends college, Justin joins a startup.
 Lots of fun exploring the city and taking road trips together.
 
 .. raw:: html
-    :file: ../imports/story-photos-2018-19.html
+    :file: imports/story/photos-2018-19.html
+
+|
 
 **2020:**
 Forced into long-distance by the pandemic,
@@ -27,7 +31,9 @@ Sanjana starts grad school in Boston,
 Justin ties up loose ends with in-person work, planing to move to Boston and work remotely.
 
 .. raw:: html
-    :file: ../imports/story-photos-2021-22.html
+    :file: imports/story/photos-2021-22.html
+
+|
 
 **2023:**
 Reunited. Sanjana and Justin return to Indiana for summer, during which Justin proposes.
@@ -36,4 +42,6 @@ and is preceded by a week of fun events mirroring early dates in 2017.)
 They drive up to Boston together and begin their "happily ever after."
 
 .. raw:: html
-    :file: ../imports/story-photos-2023.html
+    :file: imports/story/photos-2023.html
+
+|
