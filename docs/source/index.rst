@@ -1,4 +1,4 @@
-Welcome to Sanjana & Justin's wedding documentation!
+Welcome to Sanjana & Justin's wedding site!
 ===================================
 
 To keep the URL reasonably short, we used the portmanteau ``SanJustin = Sanjana + Justin`` since *Sanju* is a nickname for Sanjana.

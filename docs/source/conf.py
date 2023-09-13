@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = "Sanjana + Justin Wedding Docs"
+project = "Sanjana + Justin"
 copyright = '2023, Sanjana Kulkarni & Justin Skycak'
 author = 'Sanjana Kulkarni & Justin Skycak'
 
