@@ -6,23 +6,15 @@ Welcome to Sanjana & Justin's wedding site!
 
 |
 
-Why is this site on *ReadTheDocs*? So that it's easy to read and navigate.
+**When is the wedding?** TBD.
 
-:sup:`("Functional and well-documented" is kind of our aesthetic. We even have a Slack org with just the two of us.)`
+**Why is this site on *ReadTheDocs*?** So that it's easy to read and navigate. "Functional and well-documented" is kind of our aesthetic. We even have a Slack org with just the two of us.
 
-To keep the URL reasonably short, we used the portmanteau ``sanjustin = sanjana + justin``. Conveniently, *Sanju* is a diminutive of Sanjana.
-
-.. (/lu'make/) is a Python library for cooks and food lovers
-.. that creates recipes mixing random ingredients.
-.. It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-.. and offers a *simple* and *intuitive* API.
-
-.. Check out the :doc:`usage` section for further information, including
-.. how to :ref:`installation` the project.
+**What is this URL?** To keep the URL reasonably short, we used the portmanteau ``sanjustin = sanjana + justin``. Conveniently, *Sanju* is a diminutive of Sanjana.
 
 .. note::
 
-   This site is just a template for now. We'll add more information later.
+   This site is under construction.
 
 Contents
 --------
