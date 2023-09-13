@@ -21,6 +21,7 @@ Contents
 
 .. toctree::
 
-   agenda
-   story
-   photos
+   Welcome <index.rst>
+   Agenda <agenda.rst>
+   Story <story.rst>
+   Photos <photos.rst>
