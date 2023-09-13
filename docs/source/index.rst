@@ -6,9 +6,9 @@ Welcome to Sanjana & Justin's wedding site!
 
 |
 
-Why is this site on *ReadTheDocs*? Because we wanted to prioritize readability and navigability over aesthetics.
+Why is this site on *ReadTheDocs*? So that it's easy to read and navigate.
 
-:sup:`(Okay, fine, it also matches our aesthetic.)`
+:sup:`(Okay, fine, "useful and well-documented" is kind of our aesthetic. We even have a Slack org with just the two of us.)`
 
 To keep the URL reasonably short, we used the portmanteau ``sanjustin = sanjana + justin``. Conveniently, *Sanju* is a diminutive of Sanjana.
 
