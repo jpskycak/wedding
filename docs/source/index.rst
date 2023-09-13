@@ -20,7 +20,8 @@ Contents
 --------
 
 .. toctree::
-
+   :titlesonly:
+   
    Welcome <index.rst>
    Agenda <agenda.rst>
    Story <story.rst>
