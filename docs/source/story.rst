@@ -24,7 +24,7 @@ and Justin with his startup in LA.
 **2021-22:**
 Heads-down on work while visiting over breaks & summers.
 Sanjana starts grad school in Boston,
-Justin ties up loose ends with in-person work and plans to move to Boston while working remotely.
+Justin ties up loose ends with in-person work, planing to move to Boston and work remotely.
 
 .. raw:: html
     :file: ../imports/story-photos-2021-22.html
