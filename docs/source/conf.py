@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'SanJustin'
-copyright = '2021, Sanjana Kulkarni & Justin Skycak'
+project = "Sanjana + Justin Wedding Docs"
+copyright = '2023, Sanjana Kulkarni & Justin Skycak'
 author = 'Sanjana Kulkarni & Justin Skycak'
 
 release = '0.1'
