@@ -2,12 +2,12 @@ Story
 =====
 
 **2017:**
-Sanjana and Justin met as coworkers at their hometown Mathnasium in Granger, Indiana.
+Sanjana and Justin meet as coworkers at their hometown Mathnasium in Granger, Indiana.
 They hit it off playing ping pong at a winter holiday work party.
 Many coffees/ice creams later, Sanjana asks Justin to prom.
 
 **2018-19:**
-Moved to Los Angeles – Sanjana attends college, Justin joins a startup.
+Both move to Los Angeles – Sanjana attends college, Justin joins a startup.
 Lots of fun exploring the city and taking road trips together.
 
 **2020:**
