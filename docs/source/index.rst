@@ -18,4 +18,4 @@ Contents
    Agenda <agenda.rst>
    Story <story.rst>
    Photos <photos.rst>
-   Q&A <q-and-a.rst>
+   Q and A <q-and-a.rst>
