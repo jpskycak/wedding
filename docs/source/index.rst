@@ -5,7 +5,7 @@ Why is this site on `ReadTheDocs`? Because we wanted to prioritize readability a
 
 :sup:`(Okay, fine, it also matches our aesthetic.)`
 
-To keep the URL reasonably short, we used the portmanteau ``Sanjustin = Sanjana + Justin``. Conveniently, *Sanju* is a diminutive of Sanjana.
+To keep the URL reasonably short, we used the portmanteau ``sanjustin = sanjana + justin``. Conveniently, *Sanju* is a diminutive of Sanjana.
 
 .. (/lu'make/) is a Python library for cooks and food lovers
 .. that creates recipes mixing random ingredients.
