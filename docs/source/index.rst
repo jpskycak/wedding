@@ -1,7 +1,7 @@
 Welcome to Sanjana & Justin's wedding site!
 ===================================
 
-To keep the URL reasonably short, we used the portmanteau ``SanJustin = Sanjana + Justin``. (*Sanju* is a nickname for Sanjana.)
+To keep the URL reasonably short, we used the portmanteau ``SanJustin = Sanjana + Justin``. (*Sanju* is a diminutive of Sanjana.)
 
 .. (/lu'make/) is a Python library for cooks and food lovers
 .. that creates recipes mixing random ingredients.
