@@ -1,2 +1,27 @@
 Story
 =====
+
+**2017:**
+Sanjana and Justin met as coworkers at their hometown Mathnasium in Granger, Indiana.
+They hit it off playing ping pong at a winter holiday work party.
+Many coffees/ice creams later, Sanjana asks Justin to prom.
+
+**2018-19:**
+Moved to Los Angeles – Sanjana attends college, Justin joins a startup.
+Lots of fun exploring the city and taking road trips together.
+
+**2020:**
+Forced into long-distance by the pandemic,
+Sanjana quarantines with her family in Indiana,
+and Justin with his startup in LA.
+
+**2021-22:**
+Heads-down on work while visiting over breaks & summers.
+Sanjana starts grad school in Boston,
+Justin ties up loose ends with in-person work and plans to move to Boston while working remotely.
+
+**2023:**
+Reunited. Sanjana and Justin return to Indiana for summer, during which Justin proposes.
+(The proposal takes place at a botanical garden of personal significance,
+and is preceded by a week of fun events mirroring early dates in 2017.)
+They drive up to Boston together and begin their “happily ever after.”
