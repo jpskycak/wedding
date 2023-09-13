@@ -2,7 +2,8 @@ Welcome to Sanjana & Justin's wedding site!
 ===================================
 
 Why is this site on `ReadTheDocs`? Because we wanted to prioritize readability and navigability over aesthetics.
-:sub:`(Okay, fine, it also matches our aesthetic.)`
+
+:sup:`(Okay, fine, it also matches our aesthetic.)`
 
 To keep the URL reasonably short, we used the portmanteau ``SanJustin = Sanjana + Justin``. (*Sanju* is a diminutive of Sanjana.)
 
