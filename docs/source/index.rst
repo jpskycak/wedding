@@ -1,22 +1,25 @@
-Welcome to Lumache's documentation!
+Welcome to Sanjana & Justin's wedding documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**SanJustin** is a portmanteau. "Sanju" is a nickname for Sanjana, and we wanted a short URL.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. (/lu'make/) is a Python library for cooks and food lovers
+.. that creates recipes mixing random ingredients.
+.. It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+.. and offers a *simple* and *intuitive* API.
+
+.. Check out the :doc:`usage` section for further information, including
+.. how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This site is just a template for now. We'll add more information later.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   agenda
+   story
+   photos

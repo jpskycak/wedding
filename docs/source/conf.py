@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SanJustin'
+copyright = '2021, Sanjana Kulkarni & Justin Skycak'
+author = 'Sanjana Kulkarni & Justin Skycak'
 
 release = '0.1'
 version = '0.1.0'
