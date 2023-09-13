@@ -3,7 +3,8 @@ Welcome to Sanjana & Justin's wedding site!
 
 .. image:: https://lh3.googleusercontent.com/pw/AIL4fc-3J3Tbdyd2j2en42iexb20AV1Sf7ruiGNc_Jw2GeSdRACydFKbeFvg7hWa8jFLfhWWEjN0P9BlzkptrQeFEmqy8bgpmL5rVF0_Bx-dSDQtzN211cjj=w600-h300
    :align: center
-   
+
+
 Why is this site on *ReadTheDocs*? Because we wanted to prioritize readability and navigability over aesthetics.
 
 :sup:`(Okay, fine, it also matches our aesthetic.)`
