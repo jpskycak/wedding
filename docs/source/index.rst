@@ -1,7 +1,7 @@
 Welcome to Sanjana & Justin's wedding site!
 ===================================
 
-Why is this site on ``ReadTheDocs``? Because we wanted to prioritize readability and navigability over aesthetics.
+Why is this site on *ReadTheDocs*? Because we wanted to prioritize readability and navigability over aesthetics.
 
 :sup:`(Okay, fine, it also matches our aesthetic.)`
 
