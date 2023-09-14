@@ -12,7 +12,7 @@ Many coffees/ice creams later, Sanjana asks Justin to prom.
 |
 
 **2018-19:**
-Both move to Los Angeles – Sanjana attends college, Justin joins a startup (Math Academy).
+Both move to Los Angeles – Sanjana attends college, Justin joins an early-stage startup.
 Lots of fun exploring the city and taking road trips together.
 
 .. raw:: html
