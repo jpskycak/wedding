@@ -12,7 +12,7 @@ Many coffees/ice creams later, Sanjana asks Justin to prom.
 |
 
 **2018-19:**
-Both move to Los Angeles – Sanjana attends college, Justin joins a startup.
+Both move to Los Angeles – Sanjana attends college, Justin joins a startup (Math Academy).
 Lots of fun exploring the city and taking road trips together.
 
 .. raw:: html
@@ -27,8 +27,8 @@ and Justin with his startup in LA.
 
 **2021-22:**
 Heads-down on work while visiting over breaks & summers.
-Sanjana starts grad school in Boston,
-Justin ties up loose ends with in-person work, planing to move to Boston and work remotely.
+Sanjana starts graduate school in Boston, and
+Justin ties up loose ends with in-person work, planning to move to Boston and work remotely.
 
 .. raw:: html
     :file: imports/story/photos-2021-22.html
