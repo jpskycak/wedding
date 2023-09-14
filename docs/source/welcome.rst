@@ -13,7 +13,3 @@ A wedding site on ``ReadTheDocs``???
 Also, ``sanjustin = sanjana + justin`` (and ``sanju`` is a diminutive of ``sanjana``).
 
 Wedding date/time/location/etc is TBD.
-
-.. note::
-
-   This site is under construction.
