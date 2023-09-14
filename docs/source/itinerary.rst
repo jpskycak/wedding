@@ -1,4 +1,4 @@
-Agenda
+Event Itinerary
 =====
 
 .. note::

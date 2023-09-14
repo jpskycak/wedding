@@ -7,7 +7,7 @@ Contents
 .. toctree::
 
    Welcome <welcome.rst>
-   Agenda <agenda.rst>
-   Story <story.rst>
+   Event Itinerary <itinerary.rst>
+   Our Story <story.rst>
    Photos <photos.rst>
    RSVP <rsvp.rst>
