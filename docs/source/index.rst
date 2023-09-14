@@ -10,7 +10,7 @@ A wedding site on ``ReadTheDocs``???
 
 "Functional and well-documented" is kind of our aesthetic. We even have a Slack org with just the two of us.
 
-Also, ``sanjustin = sanjana + justin`` (and ``sanju == diminutive(sanjana)``).
+Also, ``sanjustin = sanjana + justin`` (and ``sanju`` is a diminutive of ``sanjana``).
 
 Wedding date/time/location/etc is TBD.
 
