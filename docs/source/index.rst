@@ -6,6 +6,14 @@ Welcome to Sanjana & Justin's wedding site!
 
 |
 
+A wedding site on ``ReadTheDocs``???
+
+"Functional and well-documented" is kind of our aesthetic. We even have a Slack org with just the two of us.
+
+Also, ``sanjustin = sanjana + justin`` (and ``sanju`` is conveniently a dimunutive of ``sanjana``).
+
+Wedding date/time/location/etc is TBD.
+
 .. note::
 
    This site is under construction.
@@ -18,4 +26,3 @@ Contents
    Agenda <agenda.rst>
    Story <story.rst>
    Photos <photos.rst>
-   Q and A <q-and-a.rst>
