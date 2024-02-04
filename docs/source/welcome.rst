@@ -10,7 +10,7 @@ A wedding site on ``ReadTheDocs``??? "Functional and well-documented" is kind of
 
 Here are the important deets:
 
- * **When?** Evening of October 5, 2014. (Exact time TBD)
+ * **When?** Evening of Saturday October 5, 2014. (Exact time TBD)
 
  * **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/>`_ of the Lerner Theatre (410 S Main St, Elkhart, IN 46516).
 
