@@ -8,8 +8,6 @@ Welcome to Sanjana & Justin's wedding site!
 
 A wedding site on ``ReadTheDocs``???
 
-"Functional and well-documented" is kind of our aesthetic. We even have a Slack org with just the two of us.
-
-Also, ``sanjustin = sanjana + justin`` (and ``sanju`` is a diminutive of ``sanjana``).
+"Functional and well-documented" is kind of our aesthetic.
 
 Wedding date/time/location/etc is TBD.
