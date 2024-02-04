@@ -21,3 +21,5 @@ And some other deets:
  * **Registry?** We've already furnished an apartment together and don't need more stuff. Your presence is the only gift we need :D
 
  * **Food?** Indian-American fusion buffet (+ dessert bar). Mostly vegetarian, but there will also be chicken for those interested.
+
+ * **Music?** A mixture of well-known Indian & American stuff.
