@@ -6,8 +6,16 @@ Welcome to Sanjana & Justin's wedding site!
 
 |
 
-A wedding site on ``ReadTheDocs``???
+A wedding site on ``ReadTheDocs``??? "Functional and well-documented" is kind of our aesthetic.
 
-"Functional and well-documented" is kind of our aesthetic.
+Here are the important deets:
 
-Wedding date/time/location/etc is TBD.
+ * **When?** Evening of October 5, 2014. (Exact time TBD)
+
+ * **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/>`_ of the Lerner Theatre (410 S Main St, Elkhart, IN 46516).
+
+ * **RSVP?** You got to this website from an email invitation; just follow the instructions on that email.
+
+And some other deets:
+
+ * **Registry?** We've already furnished an apartment together and don't need more stuff. Your presence is the only gift we need :D

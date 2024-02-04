@@ -10,4 +10,3 @@ Contents
    Event Itinerary <itinerary.rst>
    Our Story <story.rst>
    Photos <photos.rst>
-   RSVP <rsvp.rst>
