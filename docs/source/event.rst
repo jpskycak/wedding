@@ -1,7 +1,7 @@
 Welcome to Sanjana & Justin's wedding site!
 ===================================
 
-.. image:: https://lh3.googleusercontent.com/pw/AIL4fc-3J3Tbdyd2j2en42iexb20AV1Sf7ruiGNc_Jw2GeSdRACydFKbeFvg7hWa8jFLfhWWEjN0P9BlzkptrQeFEmqy8bgpmL5rVF0_Bx-dSDQtzN211cjj=w600-h300
+.. image:: https://lh3.googleusercontent.com/pw/AIL4fc9CO1khoM6EB9HqCb0D-iwc15eKbuvfSr8E3JSYirRFB0y5tU5Puj4sNe1FGxRWSzFXgARA7i8EUkVQPqJNTimZlvNVI8TOWa6xyDBaFcXYiuk10HCx=w600-h300
    :align: center
 
 |
@@ -10,7 +10,7 @@ A wedding site on ``ReadTheDocs``??? "Functional and well-documented" is kind of
 
 Here are the important deets:
 
- * **When?** Evening of Saturday October 5, 2014.
+ * **When?** Evening of Saturday October 5, 2024.
 
    * Please arrive by 5:30pm. (We'll also be around for greeting/photos from 3-5pm.)
 
