@@ -1,12 +1,11 @@
 
-.. include:: welcome.rst
+.. include:: event.rst
 
 Contents
 --------
 
 .. toctree::
 
-   Welcome <welcome.rst>
-   Event Itinerary <itinerary.rst>
+   Event Info <event.rst>
    Our Story <story.rst>
    Photos <photos.rst>
