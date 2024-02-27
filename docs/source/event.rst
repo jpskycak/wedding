@@ -1,13 +1,3 @@
-Welcome to Sanjana & Justin's wedding site!
-===================================
-
-.. image:: https://lh3.googleusercontent.com/pw/AIL4fc9CO1khoM6EB9HqCb0D-iwc15eKbuvfSr8E3JSYirRFB0y5tU5Puj4sNe1FGxRWSzFXgARA7i8EUkVQPqJNTimZlvNVI8TOWa6xyDBaFcXYiuk10HCx=w600-h300
-   :align: center
-
-|
-
-A wedding site on ``ReadTheDocs``??? "Functional and well-documented" is kind of our aesthetic.
-
 Here is the important info:
 
  * **When?** Evening of Saturday October 5, 2024.
@@ -26,7 +16,7 @@ Here is the important info:
 
 And some supplemental details:
 
- * **Registry?** Your presence is the only gift we need :D
+ * **Registry?** Your presence is the only gift we need :D But if you want to gift us something, cash/check is preferred (please no physical items).
 
  * **Food?** Indian & Western fusion buffet. Mostly vegetarian, but there will also be chicken for those interested.
 
