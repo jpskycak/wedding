@@ -10,7 +10,7 @@ A wedding site on ``ReadTheDocs``??? "Functional and well-documented" is kind of
 
 Here is the important info:
 
- * **What?** Wedding ceremony and reception
+ * **What?** Indian-American wedding ceremony, followed by cocktail hour and reception
 
  * **When?** Evening of Saturday October 5, 2024
 ..
