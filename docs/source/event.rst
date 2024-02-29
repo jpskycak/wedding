@@ -10,14 +10,16 @@ A wedding site on ``ReadTheDocs``??? "Functional and well-documented" is kind of
 
 Here is the important info:
 
- * **When?** Evening of Saturday October 5, 2024.
+ * **What?** Wedding ceremony and reception
+
+ * **When?** Evening of Saturday October 5, 2024
 ..
    * Please arrive by 5:30pm. (We'll also be around for greeting/photos from 3-5pm.)
 
    * The ceremony will take place at 6pm, followed by dinner & reception around 7:30pm.
 
    * We ask that guests please make their way out by 10:30pm.
-
+..
  * **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/>`_ of the Lerner Theatre (410 S Main St, Elkhart, IN 46516).
 
  * **RSVP?** Please follow instructions in your email invitation.
