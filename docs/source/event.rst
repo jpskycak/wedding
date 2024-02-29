@@ -12,7 +12,7 @@ Here is the important info:
 
  * **What?** Indian-American wedding ceremony, followed by cocktail hour and reception.
 
- * **When?** Evening of Saturday October 5, 2024.
+ * **When?** Evening of Saturday, October 5, 2024.
 
  * **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/>`_ at the Lerner Theatre (`410 S Main St. Elkhart, IN 46516 <https://maps.app.goo.gl/4ZPqMNYrCzZdFBkj6>`_).
 
