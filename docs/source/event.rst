@@ -13,13 +13,7 @@ Here is the important info:
  * **What?** Indian-American wedding ceremony, followed by cocktail hour and reception
 
  * **When?** Evening of Saturday October 5, 2024
-..
-   * Please arrive by 5:30pm. (We'll also be around for greeting/photos from 3-5pm.)
 
-   * The ceremony will take place at 6pm, followed by dinner & reception around 7:30pm.
-
-   * We ask that guests please make their way out by 10:30pm.
-..
  * **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/>`_ of the Lerner Theatre (410 S Main St, Elkhart, IN 46516).
 
  * **RSVP?** Please follow instructions in your email invitation.
@@ -33,3 +27,11 @@ And some supplemental details:
  * **Food?** Indian & Western fusion buffet, mostly vegetarian.
 
 Questions? Feel free to email sgkulkarni02@gmail.com or jpskycak@gmail.com.
+
+..
+   * Please arrive by 5:30pm. (We'll also be around for greeting/photos from 3-5pm.)
+
+   * The ceremony will take place at 6pm, followed by dinner & reception around 7:30pm.
+
+   * We ask that guests please make their way out by 10:30pm.
+..
