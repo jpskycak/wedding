@@ -14,7 +14,7 @@ Here is the important info:
 
  * **When?** Evening of Saturday October 5, 2024.
 
- * **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/>`_ of the Lerner Theatre (`410 S Main St, Elkhart, IN 46516 <https://maps.app.goo.gl/4ZPqMNYrCzZdFBkj6>`_).
+ * **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/>`_ at the Lerner Theatre (`410 S Main St, Elkhart, IN 46516 <https://maps.app.goo.gl/4ZPqMNYrCzZdFBkj6>`_).
 
  * **RSVP?** Please follow instructions in your email invitation.
 
