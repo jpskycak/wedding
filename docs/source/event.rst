@@ -34,6 +34,5 @@ Questions? Feel free to email sgkulkarni02@gmail.com or jpskycak@gmail.com.
 
    * We ask that guests please make their way out by 10:30pm.
 
-Please have one or more members of your party RSVP `here <https://withjoy.com/sanjana-justin/rsvp>`_ by September 1, 2024.
-
 ..
+Please have one or more members of your party RSVP `here <https://withjoy.com/sanjana-justin/rsvp>`_ by September 1, 2024.
