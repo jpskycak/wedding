@@ -37,7 +37,7 @@ Justin ties up loose ends with in-person work, planning to move to Boston and wo
 
 **2023:**
 Reunited. Sanjana and Justin return to Indiana for summer, during which Justin proposes.
-(The proposal takes place at the nearby <a href="https://wellfieldgardens.org/" target="_blank">Wellfield Botanic Gardens</a>
+(The proposal takes place at the nearby `Wellfield Botanic Gardens <https://wellfieldgardens.org/>`_
 and is preceded by a week of fun events mirroring early dates in 2017.)
 They drive up to Boston together and begin their "happily ever after."
 
