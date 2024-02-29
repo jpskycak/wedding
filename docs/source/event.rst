@@ -18,7 +18,7 @@ Here is the important info:
 
  * **RSVP?** Please follow instructions in your email invitation.
 
- * **Dress code?** Formal Indian or Western, whichever you prefer. For instance, a collared shirt with a tie and/or jacket is fine. Bright colors are encouraged.
+ * **Dress code?** Formal Indian or Western attire, whichever you prefer. Bright colors are encouraged!
 
 And some supplemental details:
 
