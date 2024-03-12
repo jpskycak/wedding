@@ -16,7 +16,7 @@ Here is the important info:
 
  * **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/>`_ at the Lerner Theatre (`410 S Main St. Elkhart, IN 46516 <https://maps.app.goo.gl/4ZPqMNYrCzZdFBkj6>`_).
 
- * **RSVP?** Please RSVP `here <https://forms.gle/t4ejBM4fkEuktND49`_ by September 1, 2024. Do not worry if you submit the form multiple times, we will take unique names. If you have any problems, please let us know!
+ * **RSVP?** Please RSVP `here <https://forms.gle/t4ejBM4fkEuktND49>`_ by September 1, 2024. Do not worry if you submit the form multiple times. If you have any problems, please let us know!
  * **Dress code?** Formal Indian or Western attire, whichever you prefer. Bright colors are encouraged!
 
 And some supplemental details:
@@ -28,7 +28,7 @@ And some supplemental details:
 Questions? Feel free to email sgkulkarni02@gmail.com or jpskycak@gmail.com.
 
 ..
-   * Please arrive by 5:30pm. (We'll also be around for greeting/photos from 3-5pm.)
+   * Please arrive by 4:30pm. (We'll also be around for greeting/photos from 3-5pm.)
 
    * The ceremony will take place at 6pm, followed by dinner & reception around 7:30pm.
 
