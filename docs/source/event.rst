@@ -1,4 +1,4 @@
-Welcome to Sanjana & Justin's wedding site!
+Welcome to Sanjana & Justin's wedding website!
 ===================================
 
 .. image:: https://lh3.googleusercontent.com/pw/AIL4fc9CO1khoM6EB9HqCb0D-iwc15eKbuvfSr8E3JSYirRFB0y5tU5Puj4sNe1FGxRWSzFXgARA7i8EUkVQPqJNTimZlvNVI8TOWa6xyDBaFcXYiuk10HCx=w600-h300
@@ -16,7 +16,7 @@ Here is the important info:
 
  * **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/>`_ at the Lerner Theatre (`410 S Main St. Elkhart, IN 46516 <https://maps.app.goo.gl/4ZPqMNYrCzZdFBkj6>`_).
 
- * **RSVP?** Please RSVP `here <https://withjoy.com/sanjana-justin/rsvp>`_ by September 1, 2024. Please enter the full name (first and last) of at least one person in your party to access the RSVP. If you have any problems, please email us and let us know!
+ * **RSVP?** Please RSVP `here <https://forms.gle/t4ejBM4fkEuktND49`_ by September 1, 2024. Do not worry if you submit the form multiple times, we will take unique names. If you have any problems, please let us know!
  * **Dress code?** Formal Indian or Western attire, whichever you prefer. Bright colors are encouraged!
 
 And some supplemental details:
