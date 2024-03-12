@@ -16,7 +16,7 @@ Here is the important info:
 
  * **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/>`_ at the Lerner Theatre (`410 S Main St. Elkhart, IN 46516 <https://maps.app.goo.gl/4ZPqMNYrCzZdFBkj6>`_).
 
- * **RSVP?** Please follow instructions in your email invitation and RSVP by September 1, 2024.
+ * **RSVP?** Please RSVP `here<https://withjoy.com/sanjana-justin/rsvp>`_ by September 1, 2024. Please enter the full name (first and last) of at least one person in your party to access the RSVP. If you have any problems, please email us and let us know!
  * **Dress code?** Formal Indian or Western attire, whichever you prefer. Bright colors are encouraged!
 
 And some supplemental details:
