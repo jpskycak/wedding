@@ -16,13 +16,13 @@ Here is the important info:
 * **When?** Saturday, October 5, 2024 at 4:00 PM EDT.
 \
 
-* **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/>`_ at the Lerner Theatre (`410 S Main St. Elkhart, IN 46516 <https://maps.app.goo.gl/4ZPqMNYrCzZdFBkj6>`_).
+* **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/gallery>`_ at the Lerner Theatre (`410 S Main St. Elkhart, IN 46516 <https://maps.app.goo.gl/4ZPqMNYrCzZdFBkj6>`_).
 \
 
 * **RSVP?** Please RSVP `here <https://forms.gle/t4ejBM4fkEuktND49>`_ by September 1, 2024. Do not worry if you submit the form multiple times. If you have any problems, please let us know!
 \
 
-* **Dress code?** Formal Indian or Western attire, whichever you prefer. Bright colors are encouraged!
+* **Dress code?** Formal Indian or Western attire. Bright colors are encouraged!
 \
 
 * **Food?** Indian & Western fusion buffet, mostly vegetarian.
