@@ -23,13 +23,12 @@ Here is the important info:
 \
 
 * **Dress code?** Formal Indian or Western attire, whichever you prefer. Bright colors are encouraged!
-
-And some supplemental details:
-
-* **Registry?** Your presence is the only gift we need :D But if you want to gift us something, cash/check is preferred (please no physical items).
 \
 
 * **Food?** Indian & Western fusion buffet, mostly vegetarian.
+\
+
+* **Registry?** Your presence is the only gift we need :D But if you want to gift us something, cash/check is preferred (please no physical items).
 
 Questions? Feel free to email sgkulkarni02@gmail.com or jpskycak@gmail.com.
 
