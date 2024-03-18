@@ -9,3 +9,4 @@ Contents
    Event Info <event.rst>
    Our Story <story.rst>
    Photos <photos.rst>
+   Travel / Hotel <hotel.rst>
