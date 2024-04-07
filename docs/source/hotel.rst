@@ -23,7 +23,7 @@ Things to Do
 This ain't no big city, but it's got a few interesting things to do!
 
 * `Studebaker Museum <https://www.studebakermuseum.org/#>`_: Museum of the American automobile industry, centered around the Studebaker company, which was founded in South Bend.
-* `University of Notre Dame <https://www.nd.edu/`_: Beautiful campus, also where Justin went to college. 
+* `University of Notre Dame <https://www.nd.edu/>`_: Beautiful campus for walking in, also where Justin went to college. 
 * Visit Chicago if you've never been! The museums are spectacular!
 
 There are plenty of outdoor destinations, and the fall weather will be great for being outside!
