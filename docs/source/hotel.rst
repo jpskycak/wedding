@@ -1,6 +1,3 @@
-Travel and Hotel
-=====
-
 Travel
 **********
 
@@ -23,6 +20,7 @@ Things to Do
 This ain't no big city, but it's got a few interesting things to do!
 
 * `Studebaker Museum <https://www.studebakermuseum.org/#>`_: Museum of the American automobile industry, centered around the Studebaker company, which was founded in South Bend.
+* `RV Hall of Fame & Museum <https://www.rvmhhalloffame.org/>`_: Elkhart is the RV capital of the USA.
 * `University of Notre Dame <https://www.nd.edu/>`_: Beautiful campus for walking in, also where Justin went to college. 
 * Visit Chicago if you've never been! The museums are spectacular!
 
