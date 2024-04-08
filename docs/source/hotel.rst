@@ -23,13 +23,18 @@ Staying Here
 Things to Do Here
 **********
 
-This ain't no big city, but it's got a few interesting things to do!
+This ain't no big city, but it's got a few interesting things to do. The fall weather will be beautiful!
 
 * `Wellfield Botanic Gardens <https://wellfieldgardens.org/>`_: 1 mile north of the venue. Justin proposed to Sanjana here.
 * `Studebaker Museum <https://www.studebakermuseum.org/#>`_: Museum of the American automobile industry, centered around the Studebaker company, which was founded in South Bend.
 * `RV Hall of Fame & Museum <https://www.rvmhhalloffame.org/>`_: Elkhart is the RV capital of the USA.
 * `University of Notre Dame <https://www.nd.edu/>`_: Beautiful campus to tour, also where Justin went to college.
+* `Warren Dunes State Park <https://www.michigan.org/property/warren-dunes-state-park>`_, Sawyer, Michigan
+* `Potato Creek State Park <https://www.in.gov/dnr/state-parks/parks-lakes/potato-creek-state-park/>`_, North Liberty, Indiana
+* Fruit picking at 
 * Visit Chicago if you've never been, particularly the museums and shopping areas!
+
+..
   
   * `Shedd Aquarium <https://www.sheddaquarium.org/>`_
   * `Adler Planetarium <https://www.adlerplanetarium.org/>`_
@@ -37,9 +42,4 @@ This ain't no big city, but it's got a few interesting things to do!
   * `Museum of Science and Industry <https://www.msichicago.org/>`_
   * `Lincoln Park Zoo <https://www.lpzoo.org/>`_ (free!) and `Brookfield Zoo <https://www.brookfieldzoo.org/>`_
   * `Art Institute of Chicago <https://www.artic.edu/>`_
-\
-
-There are plenty of outdoor destinations, and the fall weather will be beautiful!
-
-* `Warren Dunes State Park <https://www.michigan.org/property/warren-dunes-state-park>`_, Sawyer, Michigan
-* `Potato Creek State Park <https://www.in.gov/dnr/state-parks/parks-lakes/potato-creek-state-park/>`_, North Liberty, Indiana
+..
