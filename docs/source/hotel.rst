@@ -4,7 +4,7 @@ Travel and Hotel
 Getting Here
 **********
 
-Thank you for making the time to travel to our wedding :) We understand that it's an out of the way destination, and many of our guests are not local, so please let us know if you have any difficulties and we can assist you!
+Thank you for making the time to travel to our wedding :)
 
 You can fly to the South Bend regional airport or to Midway or O'Hare airports in Chicago. 
 
@@ -23,16 +23,12 @@ Staying Here
 Things to Do Here
 **********
 
-This ain't no big city, but it's got a few interesting things to do. The fall weather will be beautiful!
-
 * `Wellfield Botanic Gardens <https://wellfieldgardens.org/>`_: 1 mile north of the venue. Justin proposed to Sanjana here.
 * `Studebaker Museum <https://www.studebakermuseum.org/#>`_: Museum of the American automobile industry, centered around the Studebaker company, which was founded in South Bend.
 * `RV Hall of Fame & Museum <https://www.rvmhhalloffame.org/>`_: Elkhart is the RV capital of the USA.
 * `University of Notre Dame <https://www.nd.edu/>`_: Has a beautiful campus. Justin went to college here.
 * `Warren Dunes State Park <https://www.michigan.org/property/warren-dunes-state-park>`_, Sawyer, Michigan
 * `Potato Creek State Park <https://www.in.gov/dnr/state-parks/parks-lakes/potato-creek-state-park/>`_, North Liberty, Indiana
-* Fruit picking at 
-* Visit Chicago if you've never been, particularly the museums and Lake Michigan!
 
 .. 
   * `Shedd Aquarium <https://www.sheddaquarium.org/>`_
