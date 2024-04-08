@@ -6,9 +6,9 @@ Getting Here
 
 Thank you for making the time to travel to our wedding :) We understand that it's an out of the way destination, and many of our guests are not local, so please let Sanjana know if you have any difficulties and we can assist you!
 
-You can fly to the South Bend regional airport or to Midway or O'Hare international airports in Chicago. 
+You can fly to the South Bend regional airport or to Midway or O'Hare airports in Chicago. 
 
-Chicago is approximately a 2 hour drive from the South Bend / Elkhart area. O'Hare airport has the most and cheapest flight options but is the farthest drive. 
+Chicago is approximately a 2 hour drive from the South Bend / Elkhart area. O'Hare airport has the most and cheapest flight options.
 
 We strongly recommend renting a car because as it is the Midwest, a car is basically necessary for getting around.
 
@@ -38,18 +38,12 @@ This ain't no big city, but it's got a few interesting things to do!
 \
 
 * Visit Chicago if you've never been, particularly the museums and shopping areas!
+  
   * `Shedd Aquarium <https://www.sheddaquarium.org/>`_
-  * `Adler Planetarium <https://www.adlerplanetarium.org/>`_
-  * `Field Museum of Natural History <https://www.fieldmuseum.org/>`_
-  * `Museum of Science and Industry <https://www.msichicago.org/>`_
-  * `Lincoln Park Zoo <https://www.lpzoo.org/>`_ (free!) and `Brookfield Zoo <https://www.brookfieldzoo.org/>`_
-  * `Art Institute of Chicago <https://www.artic.edu/>`_
+
 \
 
 There are plenty of outdoor destinations, and the fall weather will be beautiful!
-
-* `Silver Beach <https://www.berriencounty.org/1295/Silver-Beach-County-Park>`_, St. Joseph, Michigan
-\
 
 * `Warren Dunes State Park <https://www.michigan.org/property/warren-dunes-state-park>`_, Sawyer, Michigan
 \
