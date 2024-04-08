@@ -33,7 +33,7 @@ This ain't no big city, but it's got a few interesting things to do!
 * `RV Hall of Fame & Museum <https://www.rvmhhalloffame.org/>`_: Elkhart is the RV capital of the USA.
 \
 
-* `University of Notre Dame <https://www.nd.edu/>`_: Beautiful campus to tour, also where Justin went to college. Has a very nice indoor ice skating rink!
+* `University of Notre Dame <https://www.nd.edu/>`_: Beautiful campus to tour, also where Justin went to college.
 \
 
 * Visit Chicago if you've never been, particularly the museums and shopping areas!
@@ -48,6 +48,8 @@ There are plenty of outdoor destinations, and the fall weather will be beautiful
 
 * `Silver Beach <https://www.berriencounty.org/1295/Silver-Beach-County-Park>`_, St. Joseph, Michigan
 \
+
 * `Warren Dunes State Park <https://www.michigan.org/property/warren-dunes-state-park>`_, Sawyer, Michigan
 \
+
 * Potato Creek State Park <https://www.in.gov/dnr/state-parks/parks-lakes/potato-creek-state-park/>`_, North Liberty, Indiana
