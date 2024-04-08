@@ -8,7 +8,7 @@ Thank you for making the time to travel to our wedding :) We understand that it'
 
 You can fly to the South Bend regional airport or to Midway or O'Hare airports in Chicago. 
 
-Chicago is approximately a 2 hour drive from the South Bend / Elkhart area. O'Hare airport has the most and cheapest flight options.
+Chicago is approximately a 2 hour drive from the Michiana (portmanteau of Michigan and Indiana) area. O'Hare airport has the most and cheapest flight options.
 
 We strongly recommend renting a car because as it is the Midwest, a car is basically necessary for getting around.
 
