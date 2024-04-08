@@ -13,7 +13,7 @@ Here is the important info:
 * **What?** Hindu-American wedding ceremony, followed by cocktail hour and reception.
 \
 
-* **When?** Saturday, October 5, 2024 starting at 4:00 PM EDT.
+* **When?** Saturday, October 5, 2024 starting at 4:00 PM EDT. Please be in your seats by 3:45 PM.
 \
 
 * **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/gallery>`_ at the Lerner Theatre (`410 S Main St. Elkhart, IN 46516 <https://maps.app.goo.gl/4ZPqMNYrCzZdFBkj6>`_).
@@ -33,7 +33,6 @@ Here is the important info:
 Questions? Feel free to email sgkulkarni02@gmail.com or jpskycak@gmail.com.
 
 ..
-   * Please arrive by 4:00 PM. (We'll also be around for greeting/photos from 3-5pm.)
 
    * But if you want to gift us something, cash/check is preferred (please no physical items).
 
