@@ -34,8 +34,7 @@ This ain't no big city, but it's got a few interesting things to do. The fall we
 * Fruit picking at 
 * Visit Chicago if you've never been, particularly the museums and shopping areas!
 
-..
-  
+.. 
   * `Shedd Aquarium <https://www.sheddaquarium.org/>`_
   * `Adler Planetarium <https://www.adlerplanetarium.org/>`_
   * `Field Museum of Natural History <https://www.fieldmuseum.org/>`_
