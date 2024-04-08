@@ -4,7 +4,7 @@ Travel and Hotel
 Getting Here
 **********
 
-Thank you for making the time to travel to our wedding :)
+Thank you for making the time to travel to our wedding :) Please let us know if you have any questions or concerns.
 
 You can fly to the South Bend regional airport or to Midway or O'Hare airports in Chicago. 
 
