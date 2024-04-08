@@ -28,7 +28,7 @@ This ain't no big city, but it's got a few interesting things to do. The fall we
 * `Wellfield Botanic Gardens <https://wellfieldgardens.org/>`_: 1 mile north of the venue. Justin proposed to Sanjana here.
 * `Studebaker Museum <https://www.studebakermuseum.org/#>`_: Museum of the American automobile industry, centered around the Studebaker company, which was founded in South Bend.
 * `RV Hall of Fame & Museum <https://www.rvmhhalloffame.org/>`_: Elkhart is the RV capital of the USA.
-* `University of Notre Dame <https://www.nd.edu/>`_: Beautiful campus to tour, also where Justin went to college.
+* `University of Notre Dame <https://www.nd.edu/>`_: Has a beautiful campus. Justin went to college here.
 * `Warren Dunes State Park <https://www.michigan.org/property/warren-dunes-state-park>`_, Sawyer, Michigan
 * `Potato Creek State Park <https://www.in.gov/dnr/state-parks/parks-lakes/potato-creek-state-park/>`_, North Liberty, Indiana
 * Fruit picking at 
