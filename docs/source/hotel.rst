@@ -4,7 +4,7 @@ Travel and Hotel
 Getting Here
 **********
 
-Thank you for making the time to travel to our wedding :) We understand that it's an out of the way destination, and many of our guests are not local, so please let Sanjana know if you have any difficulties and we can assist you!
+Thank you for making the time to travel to our wedding :) We understand that it's an out of the way destination, and many of our guests are not local, so please let us know if you have any difficulties and we can assist you!
 
 You can fly to the South Bend regional airport or to Midway or O'Hare airports in Chicago. 
 
