@@ -44,6 +44,7 @@ This ain't no big city, but it's got a few interesting things to do!
   * `Museum of Science and Industry <https://www.msichicago.org/>`_
   * `Lincoln Park Zoo <https://www.lpzoo.org/>`_ (free!) and `Brookfield Zoo <https://www.brookfieldzoo.org/>`_
   * `Art Institute of Chicago <https://www.artic.edu/>`_
+\
 
 There are plenty of outdoor destinations, and the fall weather will be beautiful!
 
