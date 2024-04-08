@@ -31,7 +31,7 @@ Here is the important info:
 * **Registry?** Your presence is the only gift we need :D
 \
 
-* **Livestream?** For those who can not attend, our photographer will set up a livestream of the ceremony. We will update the link here when we have it.
+* **Livestream?** For those who can not attend, there will be a livestream of the ceremony.
 
 Questions? Feel free to email sgkulkarni02@gmail.com or jpskycak@gmail.com.
 
