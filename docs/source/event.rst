@@ -33,7 +33,7 @@ Here is the important info:
 
 * **Livestream?** For those who can not attend, there will be a livestream of the ceremony.
 
-Questions? Feel free to email sgkulkarni02@gmail.com or jpskycak@gmail.com.
+Questions? Feel free to email sgkulkarni02@gmail.com
 
 ..
    * But if you want to gift us something, cash/check is preferred (please no physical items).
