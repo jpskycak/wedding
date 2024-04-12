@@ -36,7 +36,7 @@ Here is the important info:
 Questions? Feel free to email sgkulkarni02@gmail.com or jpskycak@gmail.com.
 
 ..
-* But if you want to gift us something, cash/check is preferred (please no physical items).
-* Cocktail hour will begin at 6:00 PM, followed by dinner & reception at 7:00 PM.
-* We ask that guests please make their way out by 10:30pm.
+   * But if you want to gift us something, cash/check is preferred (please no physical items).
+   * Cocktail hour will begin at 6:00 PM, followed by dinner & reception at 7:00 PM.
+   * We ask that guests please make their way out by 10:30pm.
 ..
