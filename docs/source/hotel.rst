@@ -10,7 +10,7 @@ You can fly to the South Bend regional airport or to Midway or O'Hare airports i
 
 Chicago is approximately a 2 hour drive from the Michiana (portmanteau of Michigan and Indiana) area. O'Hare airport has the most and cheapest flight options.
 
-Depending on where you're coming from, it may also be convenient to take Amtrak. The `Elkhart Amtrak station <https://www.amtrak.com/stations/ekh>`_ is only a 10 minute walk from the venue.
+Depending on where you're coming from, it may be more convenient to take the train than to fly. The `Elkhart Amtrak station <https://www.amtrak.com/stations/ekh>`_ is only a 10 minute walk from the venue.
 
 Staying Here
 **********
