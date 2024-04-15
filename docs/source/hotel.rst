@@ -9,7 +9,7 @@ Thank you for making the time to travel to our wedding :) We understand that it'
 * You can fly to the South Bend regional airport or to Midway or O'Hare airports in Chicago. 
 \
 
-* Chicago is approximately a 2 hour drive from the area. O'Hare airport has the most and cheapest flight options.
+* Chicago is approximately a 2 hour drive away. O'Hare airport has the most and cheapest flight options.
 \
 
 * Depending on where you're coming from, it may be more convenient to take the train than to fly. The `Elkhart Amtrak station <https://www.amtrak.com/stations/ekh>`_ is only a 10 minute walk from the venue.
