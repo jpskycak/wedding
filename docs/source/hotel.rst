@@ -4,9 +4,7 @@ Travel and Hotel
 Getting Here
 **********
 
-Thank you for making the time to travel to our wedding :) We understand that it's not the easiest destination to get to. 
-
-Please let us know if you have any questions or concerns.
+Thank you for making the time to travel to our wedding :) We understand that it's not the easiest destination to get to. Please let us know if you have any questions or concerns.
 
 * You can fly to the South Bend regional airport or to Midway or O'Hare airports in Chicago. 
 \
