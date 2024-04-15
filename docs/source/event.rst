@@ -28,7 +28,7 @@ Here is the important info:
 * **Food?** Indian & Western fusion buffet, mostly vegetarian.
 \
 
-* **Registry?** Your presence is the only gift we need :D We just want to enjoy the day with you, so please do not worry about gifts!
+* **Registry?** Your presence is the only gift we need :D
 \
 
 * **Livestream?** For those who can not attend, there will be a livestream of the ceremony.
