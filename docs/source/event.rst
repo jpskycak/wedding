@@ -22,7 +22,7 @@ Here is the important info:
 * **RSVP?** Please RSVP `here <https://forms.gle/t4ejBM4fkEuktND49>`_ by September 1, 2024. If you have any problems, please let us know!
 \
 
-* **Dress code?** Formal Indian or Western attire. Bright colors are encouraged!
+* **Dress code?** Formal Indian or Western attire -- Saris, lehengas, kurta pajama, salwar kameez, dresses, suits. 
 \
 
 * **Food?** Indian & Western fusion buffet, mostly vegetarian.
