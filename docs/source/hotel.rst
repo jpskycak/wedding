@@ -31,7 +31,7 @@ Things to Do Here
 * `University of Notre Dame <https://www.nd.edu/>`_: Has a beautiful campus. Justin went to college here.
 * `St. Patrick's County Park <http://www.sjcparks.org/592/St-Patricks>`_, South Bend, Indiana
 * `Potato Creek State Park <https://www.in.gov/dnr/state-parks/parks-lakes/potato-creek-state-park/>`_, North Liberty, Indiana
-* `Studebaker Museum <https://www.studebakermuseum.org/#>`_: Museum of the American automobile industry, centered around the Studebaker company, which was founded in South Bend.
+* `Studebaker Museum <https://www.studebakermuseum.org/#>`_: The Studebaker automobile company was founded in South Bend.
 * `RV Hall of Fame & Museum <https://www.rvmhhalloffame.org/>`_: Elkhart is the RV capital of the USA.
 
 .. 
