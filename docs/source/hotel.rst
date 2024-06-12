@@ -27,6 +27,7 @@ Things to Do Here
 **********
 
 * `Wellfield Botanic Gardens <https://wellfieldgardens.org/>`_: 1 mile north of the venue. Justin proposed to Sanjana here.
+* `Potawatomi Zoo <https://www.potawatomizoo.org/>`_ : Cute local zoo, good for kids. 
 * `Studebaker Museum <https://www.studebakermuseum.org/#>`_: Museum of the American automobile industry, centered around the Studebaker company, which was founded in South Bend.
 * `RV Hall of Fame & Museum <https://www.rvmhhalloffame.org/>`_: Elkhart is the RV capital of the USA.
 * `University of Notre Dame <https://www.nd.edu/>`_: Has a beautiful campus. Justin went to college here.
