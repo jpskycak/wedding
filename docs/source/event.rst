@@ -32,13 +32,8 @@ Here is the important info:
 \
 
 * **Parking?** There is `public parking <https://maps.app.goo.gl/LaAA4JNt7QM9behd9>`_ next to the Lerner theater or free street parking. 
+\
 
 * **Livestream?** For those who can not attend, there will be a livestream of the ceremony.
 
 Questions? Feel free to email sgkulkarni02@gmail.com
-
-..
-   * But if you want to gift us something, cash/check is preferred (please no physical items).
-   * Cocktail hour will begin at 6:00 PM, followed by dinner & reception at 7:00 PM.
-   * We ask that guests please make their way out by 10:30pm.
-..
