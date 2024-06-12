@@ -31,6 +31,8 @@ Here is the important info:
 * **Registry?** No gifts, please. Your presence is the only gift we need :D
 \
 
+* **Parking?** There is `public parking <https://maps.app.goo.gl/LaAA4JNt7QM9behd9>`_ next to the Lerner theater or free street parking. 
+
 * **Livestream?** For those who can not attend, there will be a livestream of the ceremony.
 
 Questions? Feel free to email sgkulkarni02@gmail.com
