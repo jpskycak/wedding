@@ -28,7 +28,7 @@ Here is the important info:
 * **Food?** Indian & Western fusion buffet, mostly vegetarian.
 \
 
-* **Parking?** There is `public parking <https://maps.app.goo.gl/LaAA4JNt7QM9behd9>`_ next to the Lerner theater or free street parking. 
+* **Parking?** There is `public parking <https://maps.app.goo.gl/LaAA4JNt7QM9behd9>`_ next to the Lerner Theatre or free street parking. 
 \
 
 * **Registry?** No gifts, please. Your presence is the only gift we need :D
