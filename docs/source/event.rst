@@ -28,10 +28,10 @@ Here is the important info:
 * **Food?** Indian & Western fusion buffet, mostly vegetarian.
 \
 
-* **Registry?** No gifts, please. Your presence is the only gift we need :D
+* **Parking?** There is `public parking <https://maps.app.goo.gl/LaAA4JNt7QM9behd9>`_ next to the Lerner theater or free street parking. 
 \
 
-* **Parking?** There is `public parking <https://maps.app.goo.gl/LaAA4JNt7QM9behd9>`_ next to the Lerner theater or free street parking. 
+* **Registry?** No gifts, please. Your presence is the only gift we need :D
 \
 
 * **Livestream?** For those who can not attend, there will be a livestream of the ceremony.
