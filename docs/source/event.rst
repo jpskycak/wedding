@@ -10,7 +10,7 @@ A wedding site on ``ReadTheDocs``??? "Functional and well-documented" is kind of
 
 Here is the important info:
 
-* **What?** Hindu-American wedding ceremony, followed by dinner and reception.
+* **What?** Hindu wedding ceremony, followed by cocktail hour, dinner, and reception.
 \
 
 * **When?** Saturday, October 5, 2024 starting at 4:00 PM EDT. Please be in your seats by 3:45 PM.
