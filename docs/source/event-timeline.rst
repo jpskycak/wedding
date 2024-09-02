@@ -4,13 +4,13 @@ Event Timeline and Seating Chart
 Event Timeline
 **********
 
-* **4 PM:** Wedding ceremony
+* **4:00 PM:** Wedding ceremony
 \
 
 * **5:30 PM:** Cocktail hour
 \
 
-* **7 PM:** First dance and speeches
+* **7:00 PM:** First dance and speeches
 \
 
 * **7:30 PM:** Dinner and dessert
