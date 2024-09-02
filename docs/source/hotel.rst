@@ -27,7 +27,6 @@ Things to Do Here
 **********
 
 * `Wellfield Botanic Gardens <https://wellfieldgardens.org/>`_: 1 mile north of the venue. Justin proposed to Sanjana here.
-* `Potawatomi Zoo <https://www.potawatomizoo.org/>`_: Cute local zoo, good for kids. 
 * `University of Notre Dame <https://www.nd.edu/>`_: Has a beautiful campus. Justin went to college here.
 * `St. Patrick's County Park <http://www.sjcparks.org/592/St-Patricks>`_, South Bend, Indiana
 * `Studebaker Museum <https://www.studebakermuseum.org/#>`_: The Studebaker automobile company was founded in South Bend.
