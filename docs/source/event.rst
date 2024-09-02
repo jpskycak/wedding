@@ -22,10 +22,10 @@ Here is the important info:
 * **RSVP?** Please RSVP `here <https://forms.gle/t4ejBM4fkEuktND49>`_ by September 1, 2024. If you have any problems, please let us know!
 \
 
-* **Dress code?** Formal Indian or Western -- Saris, lehengas, salwar kameez, kurtas, dresses, suits. 
+* **Dress code?** Formal Indian or American -- Dresses, suits, saris, lehengas, salwar kameez, kurtas. 
 \
 
-* **Food?** Indian & Western fusion buffet, mostly vegetarian.
+* **Food?** Indian & American fusion buffet, mostly vegetarian.
 \
 
 * **Parking?** There is a `public parking lot <https://maps.app.goo.gl/LaAA4JNt7QM9behd9>`_ next to the Lerner Theatre or street parking. 
