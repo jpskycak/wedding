@@ -8,11 +8,8 @@ Welcome to Sanjana & Justin's wedding website!
 
 A wedding site on ``ReadTheDocs``??? "Functional and well-documented" is kind of our aesthetic.
 
-Event Overview
+Overview
 **********
-
-* **What?** Hindu wedding ceremony, followed by cocktail hour, dinner, and reception.
-\
 
 * **When?** Saturday, October 5, 2024 starting at 4:00 PM EDT. Please be in your seats by 3:45 PM.
 \
@@ -43,7 +40,7 @@ Questions? Feel free to email sgkulkarni02@gmail.com
 Event Timeline
 **********
 
-* **4:00 PM:** Wedding ceremony
+* **4:00 PM:** Hindu wedding ceremony
 \
 
 * **5:30 PM:** Cocktail hour
