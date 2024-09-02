@@ -8,7 +8,8 @@ Welcome to Sanjana & Justin's wedding website!
 
 A wedding site on ``ReadTheDocs``??? "Functional and well-documented" is kind of our aesthetic.
 
-Here is the important info:
+Event Overview
+**********
 
 * **What?** Hindu wedding ceremony, followed by cocktail hour, dinner, and reception.
 \
@@ -37,3 +38,27 @@ Here is the important info:
 * **Livestream?** For those who can not attend, there will be a livestream of the ceremony.
 
 Questions? Feel free to email sgkulkarni02@gmail.com
+
+
+Event Timeline
+**********
+
+* **4:00 PM:** Wedding ceremony
+\
+
+* **5:30 PM:** Cocktail hour
+\
+
+* **7:00 PM:** First dance and speeches
+\
+
+* **7:30 PM:** Dinner and dessert
+\
+
+* **8:30 PM:** Reception and open dancing
+\
+
+Seating Chart
+**********
+
+
