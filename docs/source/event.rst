@@ -32,7 +32,6 @@ Overview
 * **Registry?** No gifts, please. Your presence is the only gift we need :D
 \
 
-* **Livestream?** For those who can not attend, there will be a livestream of the ceremony.
 
 Questions? Feel free to email sgkulkarni02@gmail.com
 
