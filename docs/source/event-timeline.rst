@@ -58,4 +58,7 @@ Event Timeline
 Seating Chart
 **********
 
+.. raw:: html
+    :file: imports/event/seating-chart.html
 
+|
