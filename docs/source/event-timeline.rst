@@ -58,7 +58,16 @@ Event Timeline
 Seating Chart
 **********
 
-.. raw:: html
-    :file: imports/event/seating-chart.html
+First names A-K:
 
+.. image:: imports/event/Seating_Chart_1.png
+   :width: 500px
+   :align: center
+|
+
+First names L-W:
+
+.. image:: imports/event/Seating_Chart_2.png
+   :width: 500px
+   :align: center
 |
