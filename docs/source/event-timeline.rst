@@ -16,6 +16,7 @@ Overview
 
 * **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/gallery>`_ at the Lerner Theatre (`410 S Main St. Elkhart, IN 46516 <https://maps.app.goo.gl/4ZPqMNYrCzZdFBkj6>`_).
 \
+  * The ballroom is on the second floor of the theatre. From the theatre lobby, proceed to the stairs or elevator on the right. 
 
 * **RSVP?** Please RSVP `here <https://forms.gle/t4ejBM4fkEuktND49>`_ by September 1, 2024. If you have any problems, please let us know!
 \
