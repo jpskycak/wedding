@@ -43,7 +43,7 @@ Event Timeline
 * **4:00 PM:** Hindu wedding ceremony
 \
 
-  * `Livestream link <https://www.megangregoryphotography.com/blog>_`
+  * `Livestream link <https://www.megangregoryphotography.com/blog>`_
 
 * **5:30 PM:** Cocktail hour
 \
