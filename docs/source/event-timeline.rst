@@ -42,14 +42,12 @@ Event Timeline
 
 * **4:00 PM:** Ceremony
 \
+  * `Livestream link <https://www.megangregoryphotography.com/blog>`_
+\
   * Program:
   .. raw:: html
 
-    <embed src="imports/event/Program.pdf" width="500px" height="800px" type="application/pdf">
-
-
-  \
-  * `Livestream link <https://www.megangregoryphotography.com/blog>`_
+    <embed src="docs/source/imports/event/Program.pdf" width="500px" height="800px" type="application/pdf">
 
 * **5:30 PM:** Cocktail hour
 \
