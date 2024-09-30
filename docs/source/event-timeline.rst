@@ -40,9 +40,10 @@ Questions? Feel free to email sgkulkarni02@gmail.com
 Event Timeline
 **********
 
-* **4:00 PM:** Hindu wedding ceremony
+* **4:00 PM:** Ceremony
 \
-
+  * `Program <imports/event/Program.pdf>`_
+  
   * `Livestream link <https://www.megangregoryphotography.com/blog>`_
 
 * **5:30 PM:** Cocktail hour
