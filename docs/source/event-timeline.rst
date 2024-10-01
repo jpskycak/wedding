@@ -11,7 +11,7 @@ A wedding site on ``ReadTheDocs``??? "Functional and well-documented" is kind of
 Overview
 **********
 
-* **When?** Saturday, October 5, 2024 starting at 4:00 PM EDT. Please be in your seats by 3:45 PM.
+* **When?** Saturday, October 5, 2024 starting at 4:00 PM EDT. Doors open at 3:30 PM.
 \
 
 * **Where?** `Crystal Ballroom <https://www.crystalballroomcatering.com/gallery>`_ at the Lerner Theatre (`410 S Main St. Elkhart, IN 46516 <https://maps.app.goo.gl/4ZPqMNYrCzZdFBkj6>`_).
