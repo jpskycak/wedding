@@ -44,7 +44,7 @@ Event Timeline
 \
   * `Livestream link <https://www.megangregoryphotography.com/blog>`_
 \
-  * `Program <docs/source/imports/event/Program.pdf>`_
+  * `Program <_static/Program.pdf>`_
 
 * **5:30 PM:** Cocktail hour
 \
