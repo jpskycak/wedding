@@ -58,19 +58,19 @@ Event Timeline
 * **8:30 PM:** Reception and open dancing
 \
 
-Seating Chart
-**********
-
-First names A-K:
-
-.. image:: imports/event/Seating_Chart_1.png
-   :width: 500px
-   :align: center
-|
-
-First names L-W:
-
-.. image:: imports/event/Seating_Chart_2.png
-   :width: 500px
-   :align: center
-|
+.. Seating Chart
+   **********
+   
+   First names A-K:
+   
+   .. image:: imports/event/Seating_Chart_1.png
+      :width: 500px
+      :align: center
+   |
+   
+   First names L-W:
+   
+   .. image:: imports/event/Seating_Chart_2.png
+      :width: 500px
+      :align: center
+   |
